@@ -2,79 +2,86 @@
   "maths": [
     {
       "name": "必修1",
-      "data": {
-        "name": "",
-        "data": []
-      }
+      "child": [],
+      "data": []
     },
     {
       "name": "必修2",
+      "child": [],
       "data": []
     },
     {
       "name": "选择性必修1",
+      "child": [],
       "data": []
     },
     {
       "name": "选择性必修2",
+      "child": [],
       "data": []
     },
     {
       "name": "选择性必修3",
+      "child": [],
       "data": []
     }
   ],
   "physics": [
     {
       "name": "必修1",
-      "data": {
-        "name": "",
-        "data": []
-      }
+      "child": [],
+      "data": []
     },
     {
       "name": "必修2",
+      "child": [],
       "data": []
     },
     {
       "name": "必修3",
+      "child": [],
       "data": []
     },
     {
       "name": "选择性必修1",
+      "child": [],
       "data": []
     },
     {
       "name": "选择性必修2",
+      "child": [],
       "data": []
     },
     {
       "name": "选择性必修3",
+      "child": [],
       "data": []
     }
   ],
   "chemistry": [
     {
       "name": "必修1",
-      "data": {
-        "name": "",
-        "data": []
-      }
+      "child": [],
+      "data": []
     },
     {
       "name": "必修2",
+      "child": [],
       "data": []
     },
     {
       "name": "选择性必修1",
+      "child": [],
       "data": []
     },
     {
       "name": "选择性必修2",
+      "child": [],
       "data": []
     },
     {
       "name": "选择性必修3",
+      "child": [],
       "data": []
     }
   ]
