@@ -1,7 +1,7 @@
 {
   "maths": [
     {
-      "titile": "必修1",
+      "title": "必修1",
       "children": [
         { "title": "计数原理", "children": [] },
         { "title": "随机变量及其分布", "children": [] },
@@ -24,67 +24,67 @@
       ]
     },
     {
-      "titile": "必修2",
+      "title": "必修2",
       "children": []
     },
     {
-      "titile": "选择性必修1",
+      "title": "选择性必修1",
       "children": []
     },
     {
-      "titile": "选择性必修2",
+      "title": "选择性必修2",
       "children": []
     },
     {
-      "titile": "选择性必修3",
+      "title": "选择性必修3",
       "children": []
     }
   ],
   "physics": [
     {
-      "titile": "必修1",
+      "title": "必修1",
       "children": []
     },
     {
-      "titile": "必修2",
+      "title": "必修2",
       "children": []
     },
     {
-      "titile": "必修3",
+      "title": "必修3",
       "children": []
     },
     {
-      "titile": "选择性必修1",
+      "title": "选择性必修1",
       "children": []
     },
     {
-      "titile": "选择性必修2",
+      "title": "选择性必修2",
       "children": []
     },
     {
-      "titile": "选择性必修3",
+      "title": "选择性必修3",
       "children": []
     }
   ],
   "chemistry": [
     {
-      "titile": "必修1",
+      "title": "必修1",
       "children": []
     },
     {
-      "titile": "必修2",
+      "title": "必修2",
       "children": []
     },
     {
-      "titile": "选择性必修1",
+      "title": "选择性必修1",
       "children": []
     },
     {
-      "titile": "选择性必修2",
+      "title": "选择性必修2",
       "children": []
     },
     {
-      "titile": "选择性必修3",
+      "title": "选择性必修3",
       "children": []
     }
   ]
